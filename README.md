@@ -3,8 +3,8 @@
 A static front-end clone of Amazon’s homepage built using **HTML** and **CSS** only. This project replicates the layout, styling, and sections of Amazon’s starting page for practice in front-end development.
 
 ## 📂 Project Structure
-- `amazon.html` → Main HTML file.
-- `amazon.css` → All styles for the project.
+- `index.html` → Main HTML file.
+- `style.css` → All styles for the project.
 - `assets/` → Additional images or resources.
 
 ## ✨ Features
